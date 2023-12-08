@@ -1,0 +1,1214 @@
+{
+    "data": [
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.69,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.63,
+        "pm10": 26.588,
+        "pm25": 10.833,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:22:41",
+        "timestamp_local": "2023-11-30T20:22:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425656121"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.67,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.187,
+        "pm10": 38.848,
+        "pm25": 10.36,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:21:41",
+        "timestamp_local": "2023-11-30T20:21:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425656120"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.63,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.586,
+        "pm10": 30.937,
+        "pm25": 9.496,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:20:41",
+        "timestamp_local": "2023-11-30T20:20:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425656119"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.65,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.861,
+        "pm10": 27.695,
+        "pm25": 9.822,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:19:41",
+        "timestamp_local": "2023-11-30T20:19:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425656118"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.66,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.162,
+        "pm10": 27.676,
+        "pm25": 10.032,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:18:41",
+        "timestamp_local": "2023-11-30T20:18:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425656117"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.63,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.334,
+        "pm10": 49.575,
+        "pm25": 9.482,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:17:41",
+        "timestamp_local": "2023-11-30T20:17:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425653583"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.73,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.7,
+        "pm10": 15.277,
+        "pm25": 10.778,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:16:41",
+        "timestamp_local": "2023-11-30T20:16:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425653582"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.76,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.943,
+        "pm10": 30.455,
+        "pm25": 10.938,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:15:41",
+        "timestamp_local": "2023-11-30T20:15:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425653581"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.8,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.127,
+        "pm10": 41.743,
+        "pm25": 10.52,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:14:41",
+        "timestamp_local": "2023-11-30T20:14:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425653584"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.78,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.404,
+        "pm10": 37.672,
+        "pm25": 10.421,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:13:41",
+        "timestamp_local": "2023-11-30T20:13:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425653585"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.84,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.149,
+        "pm10": 27.445,
+        "pm25": 10.185,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:12:41",
+        "timestamp_local": "2023-11-30T20:12:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425651095"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.79,
+          "temp": 29.12
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.532,
+        "pm10": 42.441,
+        "pm25": 10.618,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:11:41",
+        "timestamp_local": "2023-11-30T20:11:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425651096"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.86,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.377,
+        "pm10": 48.056,
+        "pm25": 10.633,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:10:41",
+        "timestamp_local": "2023-11-30T20:10:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425651092"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.82,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.069,
+        "pm10": 23.721,
+        "pm25": 10.065,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:09:41",
+        "timestamp_local": "2023-11-30T20:09:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425651093"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.84,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.143,
+        "pm10": 20.288,
+        "pm25": 10.39,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:08:41",
+        "timestamp_local": "2023-11-30T20:08:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425651094"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.82,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.476,
+        "pm10": 17.244,
+        "pm25": 10.384,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:07:41",
+        "timestamp_local": "2023-11-30T20:07:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425648651"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.84,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.919,
+        "pm10": 32.718,
+        "pm25": 11.028,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:06:41",
+        "timestamp_local": "2023-11-30T20:06:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425648648"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.83,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.046,
+        "pm10": 21.119,
+        "pm25": 10.621,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:05:41",
+        "timestamp_local": "2023-11-30T20:05:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425648650"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.8,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.859,
+        "pm10": 40.666,
+        "pm25": 11.179,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:04:41",
+        "timestamp_local": "2023-11-30T20:04:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425648649"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.77,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.608,
+        "pm10": 22.81,
+        "pm25": 10.932,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:03:41",
+        "timestamp_local": "2023-11-30T20:03:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425648647"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.82,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.456,
+        "pm10": 21.884,
+        "pm25": 9.687,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:02:41",
+        "timestamp_local": "2023-11-30T20:02:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425646164"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.91,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.369,
+        "pm10": 29.267,
+        "pm25": 10.202,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:01:41",
+        "timestamp_local": "2023-11-30T20:01:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425646165"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.93,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.709,
+        "pm10": 20.261,
+        "pm25": 10.604,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T20:00:41",
+        "timestamp_local": "2023-11-30T20:00:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425646166"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.92,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.692,
+        "pm10": 48.443,
+        "pm25": 10.903,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:59:41",
+        "timestamp_local": "2023-11-30T19:59:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425646169"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.94,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.876,
+        "pm10": 24.459,
+        "pm25": 10.751,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:58:41",
+        "timestamp_local": "2023-11-30T19:58:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425646167"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.96,
+          "temp": 29.09
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 9.336,
+        "pm10": 31.771,
+        "pm25": 11.393,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:57:41",
+        "timestamp_local": "2023-11-30T19:57:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425643684"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.99,
+          "temp": 29.09
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 9.708,
+        "pm10": 40.157,
+        "pm25": 11.85,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:56:41",
+        "timestamp_local": "2023-11-30T19:56:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425643681"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.97,
+          "temp": 29.09
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.986,
+        "pm10": 40.156,
+        "pm25": 11.374,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:55:41",
+        "timestamp_local": "2023-11-30T19:55:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425643685"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.94,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 10.034,
+        "pm10": 26.381,
+        "pm25": 12.164,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:54:41",
+        "timestamp_local": "2023-11-30T19:54:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425643682"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.93,
+          "temp": 29.1
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.597,
+        "pm10": 45.461,
+        "pm25": 10.847,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:53:41",
+        "timestamp_local": "2023-11-30T19:53:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425643683"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.88,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 9.824,
+        "pm10": 37.647,
+        "pm25": 12.204,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:52:41",
+        "timestamp_local": "2023-11-30T19:52:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425641200"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.82,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.655,
+        "pm10": 20.997,
+        "pm25": 11.408,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:51:41",
+        "timestamp_local": "2023-11-30T19:51:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425641199"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.79,
+          "temp": 29.11
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 9.092,
+        "pm10": 26.498,
+        "pm25": 11.633,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:50:41",
+        "timestamp_local": "2023-11-30T19:50:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425641198"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.76,
+          "temp": 29.12
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 9.222,
+        "pm10": 26.577,
+        "pm25": 11.287,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:49:41",
+        "timestamp_local": "2023-11-30T19:49:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425641197"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.73,
+          "temp": 29.12
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.948,
+        "pm10": 26.802,
+        "pm25": 11.531,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:48:41",
+        "timestamp_local": "2023-11-30T19:48:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425641195"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.67,
+          "temp": 29.12
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.964,
+        "pm10": 21.799,
+        "pm25": 10.909,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:47:41",
+        "timestamp_local": "2023-11-30T19:47:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425638667"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.65,
+          "temp": 29.12
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.495,
+        "pm10": 26.902,
+        "pm25": 10.93,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:46:41",
+        "timestamp_local": "2023-11-30T19:46:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425638666"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.6,
+          "temp": 29.12
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.892,
+        "pm10": 35.914,
+        "pm25": 10.324,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:45:41",
+        "timestamp_local": "2023-11-30T19:45:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425638665"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.61,
+          "temp": 29.12
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.192,
+        "pm10": 31.427,
+        "pm25": 10.694,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:44:41",
+        "timestamp_local": "2023-11-30T19:44:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425638664"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.57,
+          "temp": 29.13
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.378,
+        "pm10": 23.402,
+        "pm25": 10.817,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:43:41",
+        "timestamp_local": "2023-11-30T19:43:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425638662"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.57,
+          "temp": 29.13
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.138,
+        "pm10": 34.71,
+        "pm25": 8.952,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:42:41",
+        "timestamp_local": "2023-11-30T19:42:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425636192"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.57,
+          "temp": 29.14
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.458,
+        "pm10": 24.378,
+        "pm25": 9.681,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:41:41",
+        "timestamp_local": "2023-11-30T19:41:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425636190"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.53,
+          "temp": 29.15
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.475,
+        "pm10": 36.984,
+        "pm25": 10.18,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:40:41",
+        "timestamp_local": "2023-11-30T19:40:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425636188"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.53,
+          "temp": 29.16
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.454,
+        "pm10": 34.371,
+        "pm25": 9.82,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:39:41",
+        "timestamp_local": "2023-11-30T19:39:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425636189"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.52,
+          "temp": 29.16
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.606,
+        "pm10": 25.927,
+        "pm25": 10.246,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:38:41",
+        "timestamp_local": "2023-11-30T19:38:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425636187"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.51,
+          "temp": 29.16
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.436,
+        "pm10": 32.805,
+        "pm25": 10.139,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:37:41",
+        "timestamp_local": "2023-11-30T19:37:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425633668"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.49,
+          "temp": 29.15
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.036,
+        "pm10": 30.132,
+        "pm25": 9.821,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:36:41",
+        "timestamp_local": "2023-11-30T19:36:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425633669"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.48,
+          "temp": 29.16
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.716,
+        "pm10": 55.219,
+        "pm25": 9.672,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:35:41",
+        "timestamp_local": "2023-11-30T19:35:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425633670"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.51,
+          "temp": 29.17
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 8.525,
+        "pm10": 24.936,
+        "pm25": 10.717,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:34:41",
+        "timestamp_local": "2023-11-30T19:34:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425633671"
+      },
+      {
+        "geo": {
+          "lat": 5.65136,
+          "lon": -0.18566
+        },
+        "met": {
+          "rh": 79.46,
+          "temp": 29.17
+        },
+        "model": {
+          "pm": {
+            "pm1": 9434,
+            "pm10": 9436,
+            "pm25": 9435
+          }
+        },
+        "pm1": 7.327,
+        "pm10": 20.2,
+        "pm25": 9.394,
+        "sn": "MOD-PM-01068",
+        "timestamp": "2023-11-30T19:33:41",
+        "timestamp_local": "2023-11-30T19:33:41",
+        "url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/425633667"
+      }
+    ],
+    "meta": {
+      "first_url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/?page=1&per_page=50",
+      "last_url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/?page=1615&per_page=50",
+      "next_url": "https://api.quant-aq.com/device-api/v1/devices/MOD-PM-01068/data/?page=2&per_page=50",
+      "page": 1,
+      "pages": 1615,
+      "per_page": 50,
+      "prev_url": null,
+      "total": 80707
+    }
+  }

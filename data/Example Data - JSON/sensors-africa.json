@@ -1,0 +1,257 @@
+{
+  "count": 175134,
+  "next": "http://api.sensors.africa/v1/data/?format=json&page=2&sensor=4829",
+  "previous": null,
+  "results": [
+    {
+      "id": 63136960,
+      "sampling_rate": null,
+      "timestamp": "2023-11-30T20:37:40.316811Z",
+      "sensordatavalues": [
+        {
+          "id": 143405934,
+          "value": "14.25",
+          "value_type": "P2"
+        },
+        {
+          "id": 143405933,
+          "value": "16.25",
+          "value_type": "P1"
+        },
+        {
+          "id": 143405932,
+          "value": "10.00",
+          "value_type": "P0"
+        }
+      ],
+      "location": 3615,
+      "sensor": 4829,
+      "software_version": "NRZ-2020-129"
+    },
+    {
+      "id": 63136942,
+      "sampling_rate": null,
+      "timestamp": "2023-11-30T20:37:08.424916Z",
+      "sensordatavalues": [
+        {
+          "id": 143405890,
+          "value": "12.00",
+          "value_type": "P2"
+        },
+        {
+          "id": 143405889,
+          "value": "12.00",
+          "value_type": "P1"
+        },
+        {
+          "id": 143405888,
+          "value": "9.00",
+          "value_type": "P0"
+        }
+      ],
+      "location": 3615,
+      "sensor": 4829,
+      "software_version": "NRZ-2020-129"
+    },
+    {
+      "id": 63136931,
+      "sampling_rate": null,
+      "timestamp": "2023-11-30T20:36:36.545464Z",
+      "sensordatavalues": [
+        {
+          "id": 143405862,
+          "value": "13.40",
+          "value_type": "P2"
+        },
+        {
+          "id": 143405861,
+          "value": "16.00",
+          "value_type": "P1"
+        },
+        {
+          "id": 143405860,
+          "value": "8.00",
+          "value_type": "P0"
+        }
+      ],
+      "location": 3615,
+      "sensor": 4829,
+      "software_version": "NRZ-2020-129"
+    },
+    {
+      "id": 63136909,
+      "sampling_rate": null,
+      "timestamp": "2023-11-30T20:36:04.634028Z",
+      "sensordatavalues": [
+        {
+          "id": 143405806,
+          "value": "10.50",
+          "value_type": "P2"
+        },
+        {
+          "id": 143405805,
+          "value": "10.50",
+          "value_type": "P1"
+        },
+        {
+          "id": 143405804,
+          "value": "7.00",
+          "value_type": "P0"
+        }
+      ],
+      "location": 3615,
+      "sensor": 4829,
+      "software_version": "NRZ-2020-129"
+    },
+    {
+      "id": 63136859,
+      "sampling_rate": null,
+      "timestamp": "2023-11-30T20:35:31.760434Z",
+      "sensordatavalues": [
+        {
+          "id": 143405701,
+          "value": "16.00",
+          "value_type": "P2"
+        },
+        {
+          "id": 143405700,
+          "value": "16.00",
+          "value_type": "P1"
+        },
+        {
+          "id": 143405699,
+          "value": "10.40",
+          "value_type": "P0"
+        }
+      ],
+      "location": 3615,
+      "sensor": 4829,
+      "software_version": "NRZ-2020-129"
+    },
+    {
+      "id": 63136834,
+      "sampling_rate": null,
+      "timestamp": "2023-11-30T20:34:54.151050Z",
+      "sensordatavalues": [
+        {
+          "id": 143405642,
+          "value": "13.00",
+          "value_type": "P2"
+        },
+        {
+          "id": 143405641,
+          "value": "23.50",
+          "value_type": "P1"
+        },
+        {
+          "id": 143405640,
+          "value": "9.00",
+          "value_type": "P0"
+        }
+      ],
+      "location": 3615,
+      "sensor": 4829,
+      "software_version": "NRZ-2020-129"
+    },
+    {
+      "id": 63136822,
+      "sampling_rate": null,
+      "timestamp": "2023-11-30T20:34:22.245993Z",
+      "sensordatavalues": [
+        {
+          "id": 143405612,
+          "value": "12.00",
+          "value_type": "P2"
+        },
+        {
+          "id": 143405611,
+          "value": "25.75",
+          "value_type": "P1"
+        },
+        {
+          "id": 143405610,
+          "value": "8.25",
+          "value_type": "P0"
+        }
+      ],
+      "location": 3615,
+      "sensor": 4829,
+      "software_version": "NRZ-2020-129"
+    },
+    {
+      "id": 63136804,
+      "sampling_rate": null,
+      "timestamp": "2023-11-30T20:33:46.429630Z",
+      "sensordatavalues": [
+        {
+          "id": 143405567,
+          "value": "15.75",
+          "value_type": "P2"
+        },
+        {
+          "id": 143405566,
+          "value": "17.50",
+          "value_type": "P1"
+        },
+        {
+          "id": 143405565,
+          "value": "10.00",
+          "value_type": "P0"
+        }
+      ],
+      "location": 3615,
+      "sensor": 4829,
+      "software_version": "NRZ-2020-129"
+    },
+    {
+      "id": 63136784,
+      "sampling_rate": null,
+      "timestamp": "2023-11-30T20:33:14.522366Z",
+      "sensordatavalues": [
+        {
+          "id": 143405518,
+          "value": "15.00",
+          "value_type": "P2"
+        },
+        {
+          "id": 143405517,
+          "value": "18.00",
+          "value_type": "P1"
+        },
+        {
+          "id": 143405516,
+          "value": "9.00",
+          "value_type": "P0"
+        }
+      ],
+      "location": 3615,
+      "sensor": 4829,
+      "software_version": "NRZ-2020-129"
+    },
+    {
+      "id": 63136769,
+      "sampling_rate": null,
+      "timestamp": "2023-11-30T20:32:42.592915Z",
+      "sensordatavalues": [
+        {
+          "id": 143405480,
+          "value": "14.00",
+          "value_type": "P2"
+        },
+        {
+          "id": 143405479,
+          "value": "18.00",
+          "value_type": "P1"
+        },
+        {
+          "id": 143405478,
+          "value": "10.00",
+          "value_type": "P0"
+        }
+      ],
+      "location": 3615,
+      "sensor": 4829,
+      "software_version": "NRZ-2020-129"
+    }
+  ]
+}

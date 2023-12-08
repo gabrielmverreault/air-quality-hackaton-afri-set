@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "data": {
+      "city": "Accra",
+      "state": "Greater Accra",
+      "country": "Ghana",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -0.186964,
+          5.603717
+        ]
+      },
+      "current": {
+        "pollution": {
+          "ts": "2023-11-30T20:00:00.000Z",
+          "aqius": 65,
+          "mainus": "p2",
+          "aqicn": 27,
+          "maincn": "p2"
+        },
+        "weather": {
+          "ts": "2023-11-30T20:00:00.000Z",
+          "tp": 27,
+          "pr": 1012,
+          "hu": 78,
+          "ws": 3.92,
+          "wd": 183,
+          "ic": "04n"
+        }
+      }
+    }
+  }

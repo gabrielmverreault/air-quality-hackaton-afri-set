@@ -1,0 +1,3714 @@
+{
+    "success": true,
+    "isCache": false,
+    "message": "successfully returned the measurements",
+    "meta": {
+      "total": 86,
+      "skip": 0,
+      "limit": 1000,
+      "page": 1,
+      "pages": 1,
+      "startTime": "2023-11-23T20:22:43.794Z",
+      "endTime": "2023-11-30T20:22:43.794Z"
+    },
+    "measurements": [
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-30T19:00:00.000Z",
+        "pm2_5": {
+          "value": 11.030300000000032,
+          "calibratedValue": 11.030300000000032
+        },
+        "pm10": {
+          "value": 8.028353517229098,
+          "calibratedValue": 8.028353517229098
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-30T18:00:00.000Z",
+        "pm2_5": {
+          "value": 11.116400000000038,
+          "calibratedValue": 11.116400000000038
+        },
+        "pm10": {
+          "value": 8.151889400808589,
+          "calibratedValue": 8.151889400808589
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-30T14:00:00.000Z",
+        "pm2_5": {
+          "value": 11.370700000000042,
+          "calibratedValue": 11.370700000000042
+        },
+        "pm10": {
+          "value": 15.28305778244499,
+          "calibratedValue": 15.28305778244499
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-30T13:00:00.000Z",
+        "pm2_5": {
+          "value": 14.579799999999995,
+          "calibratedValue": 14.579799999999995
+        },
+        "pm10": {
+          "value": 17.116236880793032,
+          "calibratedValue": 17.116236880793032
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-30T12:00:00.000Z",
+        "pm2_5": {
+          "value": 15.341100000000022,
+          "calibratedValue": 15.341100000000022
+        },
+        "pm10": {
+          "value": 16.29940318262849,
+          "calibratedValue": 16.29940318262849
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-30T11:00:00.000Z",
+        "pm2_5": {
+          "value": 13.252900000000032,
+          "calibratedValue": 13.252900000000032
+        },
+        "pm10": {
+          "value": 14.564550093598733,
+          "calibratedValue": 14.564550093598733
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-30T10:00:00.000Z",
+        "pm2_5": {
+          "value": 9.98610000000003,
+          "calibratedValue": 9.98610000000003
+        },
+        "pm10": {
+          "value": 10.11971908920184,
+          "calibratedValue": 10.11971908920184
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-30T09:00:00.000Z",
+        "pm2_5": {
+          "value": 12.042500000000022,
+          "calibratedValue": 12.042500000000022
+        },
+        "pm10": {
+          "value": 11.030570409802882,
+          "calibratedValue": 11.030570409802882
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-30T08:00:00.000Z",
+        "pm2_5": {
+          "value": 13.126900000000042,
+          "calibratedValue": 13.126900000000042
+        },
+        "pm10": {
+          "value": 12.95620100497758,
+          "calibratedValue": 12.95620100497758
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-30T07:00:00.000Z",
+        "pm2_5": {
+          "value": 15.533900000000038,
+          "calibratedValue": 15.533900000000038
+        },
+        "pm10": {
+          "value": 14.160905422313954,
+          "calibratedValue": 14.160905422313954
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-29T18:00:00.000Z",
+        "pm2_5": {
+          "value": 9.672000000000027,
+          "calibratedValue": 9.672000000000027
+        },
+        "pm10": {
+          "value": 2.767146351255639,
+          "calibratedValue": 2.767146351255639
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-29T17:00:00.000Z",
+        "pm2_5": {
+          "value": 9.040500000000026,
+          "calibratedValue": 9.040500000000026
+        },
+        "pm10": {
+          "value": 4.7187106527456,
+          "calibratedValue": 4.7187106527456
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-29T16:00:00.000Z",
+        "pm2_5": {
+          "value": 9.27860000000004,
+          "calibratedValue": 9.27860000000004
+        },
+        "pm10": {
+          "value": 5.64170395634179,
+          "calibratedValue": 5.64170395634179
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-29T15:00:00.000Z",
+        "pm2_5": {
+          "value": 10.22260000000003,
+          "calibratedValue": 10.22260000000003
+        },
+        "pm10": {
+          "value": 8.408707441064948,
+          "calibratedValue": 8.408707441064948
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-29T14:00:00.000Z",
+        "pm2_5": {
+          "value": 9.958400000000028,
+          "calibratedValue": 9.958400000000028
+        },
+        "pm10": {
+          "value": 11.80502743566287,
+          "calibratedValue": 11.80502743566287
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-29T13:00:00.000Z",
+        "pm2_5": {
+          "value": 10.754300000000049,
+          "calibratedValue": 10.754300000000049
+        },
+        "pm10": {
+          "value": 13.00199776865209,
+          "calibratedValue": 13.00199776865209
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-29T12:00:00.000Z",
+        "pm2_5": {
+          "value": 12.700500000000076,
+          "calibratedValue": 12.700500000000076
+        },
+        "pm10": {
+          "value": 14.024106532413429,
+          "calibratedValue": 14.024106532413429
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-29T11:00:00.000Z",
+        "pm2_5": {
+          "value": 10.315000000000053,
+          "calibratedValue": 10.315000000000053
+        },
+        "pm10": {
+          "value": 11.905642059713069,
+          "calibratedValue": 11.905642059713069
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-29T10:00:00.000Z",
+        "pm2_5": {
+          "value": 10.837000000000035,
+          "calibratedValue": 10.837000000000035
+        },
+        "pm10": {
+          "value": 10.883019303667822,
+          "calibratedValue": 10.883019303667822
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-29T09:00:00.000Z",
+        "pm2_5": {
+          "value": 9.299500000000032,
+          "calibratedValue": 9.299500000000032
+        },
+        "pm10": {
+          "value": 7.007370715562228,
+          "calibratedValue": 7.007370715562228
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-29T08:00:00.000Z",
+        "pm2_5": {
+          "value": 12.1077,
+          "calibratedValue": 12.1077
+        },
+        "pm10": {
+          "value": 9.258615323328334,
+          "calibratedValue": 9.258615323328334
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-29T07:00:00.000Z",
+        "pm2_5": {
+          "value": 15.215000000000035,
+          "calibratedValue": 15.215000000000035
+        },
+        "pm10": {
+          "value": 14.88133960034794,
+          "calibratedValue": 14.88133960034794
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T20:00:00.000Z",
+        "pm2_5": {
+          "value": 10.02470000000002,
+          "calibratedValue": 10.02470000000002
+        },
+        "pm10": {
+          "value": 0.4508403344933942,
+          "calibratedValue": 0.4508403344933942
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T19:00:00.000Z",
+        "pm2_5": {
+          "value": 8.6539,
+          "calibratedValue": 8.6539
+        },
+        "pm10": {
+          "value": 0.184579097592417,
+          "calibratedValue": 0.184579097592417
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T18:00:00.000Z",
+        "pm2_5": {
+          "value": 9.69380000000002,
+          "calibratedValue": 9.69380000000002
+        },
+        "pm10": {
+          "value": 1.174393932991621,
+          "calibratedValue": 1.174393932991621
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T17:00:00.000Z",
+        "pm2_5": {
+          "value": 8.928000000000013,
+          "calibratedValue": 8.928000000000013
+        },
+        "pm10": {
+          "value": 3.805329297654885,
+          "calibratedValue": 3.805329297654885
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T16:00:00.000Z",
+        "pm2_5": {
+          "value": 8.410599999999992,
+          "calibratedValue": 8.410599999999992
+        },
+        "pm10": {
+          "value": 6.696647633528602,
+          "calibratedValue": 6.696647633528602
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T15:00:00.000Z",
+        "pm2_5": {
+          "value": 8.055099999999992,
+          "calibratedValue": 8.055099999999992
+        },
+        "pm10": {
+          "value": 6.277559982616846,
+          "calibratedValue": 6.277559982616846
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T14:00:00.000Z",
+        "pm2_5": {
+          "value": 7.854199999999994,
+          "calibratedValue": 7.854199999999994
+        },
+        "pm10": {
+          "value": 5.23452071898433,
+          "calibratedValue": 5.23452071898433
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T13:00:00.000Z",
+        "pm2_5": {
+          "value": 10.131000000000022,
+          "calibratedValue": 10.131000000000022
+        },
+        "pm10": {
+          "value": 4.998223655466285,
+          "calibratedValue": 4.998223655466285
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T12:00:00.000Z",
+        "pm2_5": {
+          "value": 9.79030000000003,
+          "calibratedValue": 9.79030000000003
+        },
+        "pm10": {
+          "value": 5.338878760212147,
+          "calibratedValue": 5.338878760212147
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T11:00:00.000Z",
+        "pm2_5": {
+          "value": 9.80930000000002,
+          "calibratedValue": 9.80930000000002
+        },
+        "pm10": {
+          "value": 6.557501287936141,
+          "calibratedValue": 6.557501287936141
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T10:00:00.000Z",
+        "pm2_5": {
+          "value": 9.37440000000004,
+          "calibratedValue": 9.37440000000004
+        },
+        "pm10": {
+          "value": 7.927496398640356,
+          "calibratedValue": 7.927496398640356
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T09:00:00.000Z",
+        "pm2_5": {
+          "value": 12.122200000000015,
+          "calibratedValue": 12.122200000000015
+        },
+        "pm10": {
+          "value": 11.711478965554951,
+          "calibratedValue": 11.711478965554951
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T08:00:00.000Z",
+        "pm2_5": {
+          "value": 15.012000000000029,
+          "calibratedValue": 15.012000000000029
+        },
+        "pm10": {
+          "value": 18.019239818922284,
+          "calibratedValue": 18.019239818922284
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-28T07:00:00.000Z",
+        "pm2_5": {
+          "value": 18.327399999999987,
+          "calibratedValue": 18.327399999999987
+        },
+        "pm10": {
+          "value": 26.35582714131122,
+          "calibratedValue": 26.35582714131122
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T19:00:00.000Z",
+        "pm2_5": {
+          "value": 10.48640000000003,
+          "calibratedValue": 10.48640000000003
+        },
+        "pm10": {
+          "value": 6.927893622074418,
+          "calibratedValue": 6.927893622074418
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T18:00:00.000Z",
+        "pm2_5": {
+          "value": 12.098700000000065,
+          "calibratedValue": 12.098700000000065
+        },
+        "pm10": {
+          "value": 8.654002833854992,
+          "calibratedValue": 8.654002833854992
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T17:00:00.000Z",
+        "pm2_5": {
+          "value": 10.523500000000036,
+          "calibratedValue": 10.523500000000036
+        },
+        "pm10": {
+          "value": 7.261394951843154,
+          "calibratedValue": 7.261394951843154
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T16:00:00.000Z",
+        "pm2_5": {
+          "value": 9.569300000000034,
+          "calibratedValue": 9.569300000000034
+        },
+        "pm10": {
+          "value": 6.407709871678972,
+          "calibratedValue": 6.407709871678972
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T15:00:00.000Z",
+        "pm2_5": {
+          "value": 10.544700000000036,
+          "calibratedValue": 10.544700000000036
+        },
+        "pm10": {
+          "value": 11.836946600556915,
+          "calibratedValue": 11.836946600556915
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T14:00:00.000Z",
+        "pm2_5": {
+          "value": 10.774800000000042,
+          "calibratedValue": 10.774800000000042
+        },
+        "pm10": {
+          "value": 14.879332076533505,
+          "calibratedValue": 14.879332076533505
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T13:00:00.000Z",
+        "pm2_5": {
+          "value": 11.016900000000035,
+          "calibratedValue": 11.016900000000035
+        },
+        "pm10": {
+          "value": 14.969776826864624,
+          "calibratedValue": 14.969776826864624
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T12:00:00.000Z",
+        "pm2_5": {
+          "value": 15.371400000000031,
+          "calibratedValue": 15.371400000000031
+        },
+        "pm10": {
+          "value": 15.548974396601263,
+          "calibratedValue": 15.548974396601263
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T11:00:00.000Z",
+        "pm2_5": {
+          "value": 17.231899999999982,
+          "calibratedValue": 17.231899999999982
+        },
+        "pm10": {
+          "value": 29.058512895496563,
+          "calibratedValue": 29.058512895496563
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T10:00:00.000Z",
+        "pm2_5": {
+          "value": 22.008399999999977,
+          "calibratedValue": 22.008399999999977
+        },
+        "pm10": {
+          "value": 34.95552504872382,
+          "calibratedValue": 34.95552504872382
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T09:00:00.000Z",
+        "pm2_5": {
+          "value": 34.10340000000008,
+          "calibratedValue": 34.10340000000008
+        },
+        "pm10": {
+          "value": 45.654359326412624,
+          "calibratedValue": 45.654359326412624
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T08:00:00.000Z",
+        "pm2_5": {
+          "value": 31.125600000000095,
+          "calibratedValue": 31.125600000000095
+        },
+        "pm10": {
+          "value": 43.31701703068468,
+          "calibratedValue": 43.31701703068468
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-27T07:00:00.000Z",
+        "pm2_5": {
+          "value": 47.62949999999994,
+          "calibratedValue": 47.62949999999994
+        },
+        "pm10": {
+          "value": 51.37426378500822,
+          "calibratedValue": 51.37426378500822
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-26T17:00:00.000Z",
+        "pm2_5": {
+          "value": 8.715700000000005,
+          "calibratedValue": 8.715700000000005
+        },
+        "pm10": {
+          "value": -0.8490897322488804,
+          "calibratedValue": -0.8490897322488804
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-26T16:00:00.000Z",
+        "pm2_5": {
+          "value": 9.30840000000003,
+          "calibratedValue": 9.30840000000003
+        },
+        "pm10": {
+          "value": 0.4062181591756575,
+          "calibratedValue": 0.4062181591756575
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-26T15:00:00.000Z",
+        "pm2_5": {
+          "value": 9.63850000000003,
+          "calibratedValue": 9.63850000000003
+        },
+        "pm10": {
+          "value": 4.981308531284589,
+          "calibratedValue": 4.981308531284589
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-26T14:00:00.000Z",
+        "pm2_5": {
+          "value": 14.419600000000028,
+          "calibratedValue": 14.419600000000028
+        },
+        "pm10": {
+          "value": 13.47562154091566,
+          "calibratedValue": 13.47562154091566
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-26T13:00:00.000Z",
+        "pm2_5": {
+          "value": 14.97510000000002,
+          "calibratedValue": 14.97510000000002
+        },
+        "pm10": {
+          "value": 14.626164025642629,
+          "calibratedValue": 14.626164025642629
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-26T11:00:00.000Z",
+        "pm2_5": {
+          "value": 14.265800000000022,
+          "calibratedValue": 14.265800000000022
+        },
+        "pm10": {
+          "value": 13.234884619894656,
+          "calibratedValue": 13.234884619894656
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-26T10:00:00.000Z",
+        "pm2_5": {
+          "value": 9.70160000000004,
+          "calibratedValue": 9.70160000000004
+        },
+        "pm10": {
+          "value": 7.323172502196158,
+          "calibratedValue": 7.323172502196158
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-26T09:00:00.000Z",
+        "pm2_5": {
+          "value": 10.399800000000043,
+          "calibratedValue": 10.399800000000043
+        },
+        "pm10": {
+          "value": 7.216304355589918,
+          "calibratedValue": 7.216304355589918
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-26T08:00:00.000Z",
+        "pm2_5": {
+          "value": 15.33740000000004,
+          "calibratedValue": 15.33740000000004
+        },
+        "pm10": {
+          "value": 15.60129375295044,
+          "calibratedValue": 15.60129375295044
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-26T07:00:00.000Z",
+        "pm2_5": {
+          "value": 13.50720000000002,
+          "calibratedValue": 13.50720000000002
+        },
+        "pm10": {
+          "value": 8.493887462985523,
+          "calibratedValue": 8.493887462985523
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T19:00:00.000Z",
+        "pm2_5": {
+          "value": 11.616900000000047,
+          "calibratedValue": 11.616900000000047
+        },
+        "pm10": {
+          "value": 7.955399691116977,
+          "calibratedValue": 7.955399691116977
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T18:00:00.000Z",
+        "pm2_5": {
+          "value": 11.32610000000006,
+          "calibratedValue": 11.32610000000006
+        },
+        "pm10": {
+          "value": 4.922872157809599,
+          "calibratedValue": 4.922872157809599
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T17:00:00.000Z",
+        "pm2_5": {
+          "value": 9.182300000000026,
+          "calibratedValue": 9.182300000000026
+        },
+        "pm10": {
+          "value": 2.6396201260560685,
+          "calibratedValue": 2.6396201260560685
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T16:00:00.000Z",
+        "pm2_5": {
+          "value": 9.187200000000027,
+          "calibratedValue": 9.187200000000027
+        },
+        "pm10": {
+          "value": 1.165734563656332,
+          "calibratedValue": 1.165734563656332
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T15:00:00.000Z",
+        "pm2_5": {
+          "value": 9.365300000000024,
+          "calibratedValue": 9.365300000000024
+        },
+        "pm10": {
+          "value": 4.587845128551344,
+          "calibratedValue": 4.587845128551344
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T14:00:00.000Z",
+        "pm2_5": {
+          "value": 9.252000000000026,
+          "calibratedValue": 9.252000000000026
+        },
+        "pm10": {
+          "value": 5.983903259771704,
+          "calibratedValue": 5.983903259771704
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T13:00:00.000Z",
+        "pm2_5": {
+          "value": 11.78830000000006,
+          "calibratedValue": 11.78830000000006
+        },
+        "pm10": {
+          "value": 7.7236355926792655,
+          "calibratedValue": 7.7236355926792655
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T12:00:00.000Z",
+        "pm2_5": {
+          "value": 10.685900000000045,
+          "calibratedValue": 10.685900000000045
+        },
+        "pm10": {
+          "value": 9.862577564760109,
+          "calibratedValue": 9.862577564760109
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T11:00:00.000Z",
+        "pm2_5": {
+          "value": 9.94670000000004,
+          "calibratedValue": 9.94670000000004
+        },
+        "pm10": {
+          "value": 7.251683248339642,
+          "calibratedValue": 7.251683248339642
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T10:00:00.000Z",
+        "pm2_5": {
+          "value": 10.52390000000006,
+          "calibratedValue": 10.52390000000006
+        },
+        "pm10": {
+          "value": 7.789839244840722,
+          "calibratedValue": 7.789839244840722
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T09:00:00.000Z",
+        "pm2_5": {
+          "value": 15.906300000000082,
+          "calibratedValue": 15.906300000000082
+        },
+        "pm10": {
+          "value": 14.279494074336098,
+          "calibratedValue": 14.279494074336098
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T08:00:00.000Z",
+        "pm2_5": {
+          "value": 14.952099999999996,
+          "calibratedValue": 14.952099999999996
+        },
+        "pm10": {
+          "value": 20.31144854780776,
+          "calibratedValue": 20.31144854780776
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-25T07:00:00.000Z",
+        "pm2_5": {
+          "value": 18.51730000000001,
+          "calibratedValue": 18.51730000000001
+        },
+        "pm10": {
+          "value": 26.630868691241044,
+          "calibratedValue": 26.630868691241044
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T20:00:00.000Z",
+        "pm2_5": {
+          "value": 16.753700000000048,
+          "calibratedValue": 16.753700000000048
+        },
+        "pm10": {
+          "value": 18.14535854136892,
+          "calibratedValue": 18.14535854136892
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T19:00:00.000Z",
+        "pm2_5": {
+          "value": 16.411400000000025,
+          "calibratedValue": 16.411400000000025
+        },
+        "pm10": {
+          "value": 19.62978109289267,
+          "calibratedValue": 19.62978109289267
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T18:00:00.000Z",
+        "pm2_5": {
+          "value": 10.674200000000043,
+          "calibratedValue": 10.674200000000043
+        },
+        "pm10": {
+          "value": 5.378585084695376,
+          "calibratedValue": 5.378585084695376
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T17:00:00.000Z",
+        "pm2_5": {
+          "value": 9.384400000000037,
+          "calibratedValue": 9.384400000000037
+        },
+        "pm10": {
+          "value": 3.381238028364943,
+          "calibratedValue": 3.381238028364943
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T16:00:00.000Z",
+        "pm2_5": {
+          "value": 9.998600000000042,
+          "calibratedValue": 9.998600000000042
+        },
+        "pm10": {
+          "value": 6.6856418609429005,
+          "calibratedValue": 6.6856418609429005
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T15:00:00.000Z",
+        "pm2_5": {
+          "value": 9.76920000000004,
+          "calibratedValue": 9.76920000000004
+        },
+        "pm10": {
+          "value": 9.010840458923784,
+          "calibratedValue": 9.010840458923784
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T14:00:00.000Z",
+        "pm2_5": {
+          "value": 10.185700000000049,
+          "calibratedValue": 10.185700000000049
+        },
+        "pm10": {
+          "value": 8.938595964672087,
+          "calibratedValue": 8.938595964672087
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T13:00:00.000Z",
+        "pm2_5": {
+          "value": 10.427600000000051,
+          "calibratedValue": 10.427600000000051
+        },
+        "pm10": {
+          "value": 8.023454891357048,
+          "calibratedValue": 8.023454891357048
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T12:00:00.000Z",
+        "pm2_5": {
+          "value": 11.117900000000084,
+          "calibratedValue": 11.117900000000084
+        },
+        "pm10": {
+          "value": 10.112076830517314,
+          "calibratedValue": 10.112076830517314
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T11:00:00.000Z",
+        "pm2_5": {
+          "value": 13.00790000000005,
+          "calibratedValue": 13.00790000000005
+        },
+        "pm10": {
+          "value": 12.959102509009146,
+          "calibratedValue": 12.959102509009146
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T10:00:00.000Z",
+        "pm2_5": {
+          "value": 10.804500000000058,
+          "calibratedValue": 10.804500000000058
+        },
+        "pm10": {
+          "value": 8.95378344186319,
+          "calibratedValue": 8.95378344186319
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T09:00:00.000Z",
+        "pm2_5": {
+          "value": 15.380900000000064,
+          "calibratedValue": 15.380900000000064
+        },
+        "pm10": {
+          "value": 12.146054509174572,
+          "calibratedValue": 12.146054509174572
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T08:00:00.000Z",
+        "pm2_5": {
+          "value": 15.255100000000043,
+          "calibratedValue": 15.255100000000043
+        },
+        "pm10": {
+          "value": 14.069756876941298,
+          "calibratedValue": 14.069756876941298
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      },
+      {
+        "device": "airqo-g5171",
+        "device_id": "6425370f88d7e4001d3596f4",
+        "site_id": "64ceb622c01e770013b27f01",
+        "time": "2023-11-24T07:00:00.000Z",
+        "pm2_5": {
+          "value": 19.83449999999998,
+          "calibratedValue": 19.83449999999998
+        },
+        "pm10": {
+          "value": 27.34853969210132,
+          "calibratedValue": 27.34853969210132
+        },
+        "frequency": "hourly",
+        "no2": {
+          "value": null,
+          "calibratedValue": null
+        },
+        "deviceDetails": {
+          "_id": "6425370f88d7e4001d3596f4",
+          "tags": [],
+          "mobility": false,
+          "device_codes": [
+            "6425370f88d7e4001d3596f4",
+            "airqo-g5171",
+            "2087721"
+          ],
+          "status": "deployed",
+          "isPrimaryInLocation": false,
+          "category": "lowcost",
+          "pictures": [],
+          "network": "airqo",
+          "name": "airqo-g5171",
+          "__v": 0,
+          "alias": "airqo-g5171",
+          "approximate_distance_in_km": 0.5,
+          "bearing_in_radians": 3.033,
+          "latitude": 5.647,
+          "longitude": -0.18515,
+          "cohorts": [],
+          "previous_sites": []
+        }
+      }
+    ]
+  }
