@@ -21,7 +21,7 @@ AWS_PROFILE="airquality" #from ~/.aws/config
 S3_BUCKET="TargetBucketName"
 ```
 
-Installed the required packages
+Install the required packages
 
 `pip install -r requirements.txt`
 
