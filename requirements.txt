@@ -3,3 +3,4 @@ boto3==1.33.8
 python-dotenv
 pandas==2.1.3
 flatten-json==0.1.14
+streamlit
